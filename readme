@@ -1,0 +1,25 @@
+Este es el codigo para poder publicar mensajes usando uso de una API
+atraves de Node.Js
+
+    PARA INICIAR LA APLICACION 
+        Escribir el comando "node index.js" en nuestra consola
+
+    Podemos obtener las noticas previamente guardadas en un arreglo de noticias que contiene 
+    *ID
+    *TITULO
+    *CUERPO
+     
+     Una vez inicializada la aplicacion de node podemos copiar el la dirrecion "http://localhost:3000" a esta misma
+     añadimos "/noticias" para poder realizar diferentes acciones 
+
+     Podemos obtener las noticas previamente guardadas en un arreglo de noticias que contiene 
+    *ID
+    *TITULO
+    *CUERPO
+
+    Podemos hacer uso de los siguientes metodos
+
+    *GET
+    *PUT
+    *POST
+    *DELETE
